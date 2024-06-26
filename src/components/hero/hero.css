@@ -27,7 +27,6 @@
 .hero .hero__img {
 	width: 100%;
 	max-width: 38rem;
-	border-radius: 50%;
 	height: auto;
 }
 
@@ -40,7 +39,7 @@
 }
 
 .hero .hero__text {
-	font-size: var(--text-xx-large);
+	font-size: large;
 }
 
 .hero__container .text__content {
@@ -68,7 +67,7 @@
 		padding: 12rem 0 5rem 0;
 	}
 	.hero .hero__img {
-		max-width: 28rem;
+		display: none;
 	}
 	.hero .hero__container {
 		display: flex;
@@ -84,7 +83,8 @@
 
 	.hero .hero__text {
 		font-size: var(--text-x-large);
-		text-align: center;
+		text-align: justify;
+		padding-inline: 30px;
 	}
 }
 

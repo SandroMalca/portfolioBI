@@ -23,7 +23,7 @@
 	width: 100%;
 	top: 0;
 	transition: 0.35s;
-	background: #231724;
+	background: black;
 	transform: translateY(63%);
 	padding-top: 15px;
 	transition-property: transform, padding-top;
@@ -65,15 +65,18 @@
 	height: 100%;
 	flex-direction: column;
 	gap: 10px;
+	color: #000;
 }
 
 .card__portfolio .descripcion p {
 	font-size: var(--text-medium);
+	font-weight: 600;
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
 	height: 20px;
 	transition: 0.35s height;
+	color: #000;
 }
 
 .card__portfolio:hover .descripcion p {
@@ -110,6 +113,7 @@
 	justify-content: center;
 	gap: 22px;
 	font-size: var(--text-button);
+	font-weight: 600;
 }
 
 .card__portfolio .buttons a {
@@ -129,7 +133,7 @@
 	width: 100%;
 	transform-origin: 0 0;
 	transform: scale(0);
-	background: var(--primary);
+	background: black;
 	transition: 0.35s transform;
 }
 .card__portfolio .buttons a:hover::after {

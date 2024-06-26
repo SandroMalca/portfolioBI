@@ -4,6 +4,8 @@
 	width: 100%;
 	justify-content: center;
 	gap: 2.2rem;
+	flex: 1;
+	padding: 10px;
 }
 .terminal__skills {
 	padding: 2.2rem 0;
