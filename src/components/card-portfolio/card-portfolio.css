@@ -121,7 +121,7 @@
 }
 
 .card__portfolio .buttons a:hover {
-	color: var(--primary-80);
+	color: black
 }
 
 .card__portfolio .buttons a::after {
