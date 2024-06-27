@@ -22,7 +22,7 @@ export const portafolioData = [
 		skills: ['Power BI', 'Excel'],
 		descripcion:
 			'Informe de Flujo de Ingresos',
-		demoURL: '',
+		demoURL: 'https://app.powerbi.com/reportEmbed?reportId=cdf2429d-75d2-415f-a801-98396bc59288&autoAuth=true&ctid=98201fef-d9f6-4e68-84f5-c2705074e342',
 		anim: 'fade-right',
 	},
 	{
@@ -31,16 +31,16 @@ export const portafolioData = [
 		skills: ['Power BI', 'Excel'],
 		descripcion:
 			'Informe del Presupuesto',
-		demoURL: '',
+		demoURL: 'https://app.powerbi.com/reportEmbed?reportId=749b89d4-7f43-42ea-8638-29c87fb9ae0c&autoAuth=true&ctid=98201fef-d9f6-4e68-84f5-c2705074e342',
 		anim: 'fade-up',
 	},
 	{
-		imgSrc: 'https://www.sergestec.com/wp-content/uploads/2024/05/cobranza.jpg',
-		title: 'Cobranzas',
+		imgSrc: 'https://estaticos-cdn.prensaiberica.es/clip/250ad636-d27a-4fc7-af7d-94aecee98480_21-9-aspect-ratio_default_0.jpg',
+		title: 'Encuestas',
 		skills: ['Power BI', 'SQL'],
 		descripcion:
-			'Informe de Cobranzas',
-		demoURL: '',
+			'Informe de Encuesta',
+		demoURL: 'https://app.powerbi.com/reportEmbed?reportId=5c901293-846c-47bc-a27d-f85076c56c0f&autoAuth=true&ctid=98201fef-d9f6-4e68-84f5-c2705074e342',
 		anim: 'fade-left',
 	},
 	{
@@ -58,7 +58,7 @@ export const portafolioData = [
 		skills: ['Power BI', 'Excel'],
 		descripcion:
 			'Informe de Recursos Humanos',
-		demoURL: '',
+		demoURL: 'https://app.powerbi.com/reportEmbed?reportId=5f0a1f53-4fc2-4167-b23c-d0ac3cf866b9&autoAuth=true&ctid=98201fef-d9f6-4e68-84f5-c2705074e342',
 		anim: 'fade-right',
 	}
 ];
