@@ -49,7 +49,7 @@ export const portafolioData = [
 		skills: ['Power BI', 'Excel'],
 		descripcion:
 			'Informe de Finanzas',
-		demoURL: '',
+		demoURL: '<iframe title="DASHBOARD FINANZAS" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2FiZjIyMDQtZDFhMi00ODcxLWFkMDctYzkyOTU5MzYwOTRjIiwidCI6Ijk4MjAxZmVmLWQ5ZjYtNGU2OC04NGY1LWMyNzA1MDc0ZTM0MiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>',
 		anim: 'fade-left',
 	},
 	{
