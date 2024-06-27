@@ -49,7 +49,7 @@ export const portafolioData = [
 		skills: ['Power BI', 'Excel'],
 		descripcion:
 			'Informe de Finanzas',
-		demoURL: 'https://app.powerbi.com/view?r=eyJrIjoiY2FiZjIyMDQtZDFhMi00ODcxLWFkMDctYzkyOTU5MzYwOTRjIiwidCI6Ijk4MjAxZmVmLWQ5ZjYtNGU2OC04NGY1LWMyNzA1MDc0ZTM0MiIsImMiOjR9',
+		demoURL: 'https://app.powerbi.com/reportEmbed?reportId=4b56179c-ffdf-4444-896f-7347560c02b6&autoAuth=true&ctid=98201fef-d9f6-4e68-84f5-c2705074e342',
 		anim: 'fade-left',
 	},
 	{
